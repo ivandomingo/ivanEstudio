@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-feb-2014, 20:47:16
+    Author     : iSidous
+*/
+td{
+    margin-left: 50px;
+}
+
+#carrito{
+    padding-top: 50px;
+    clear: left;
+}
+
+#contenidoGeneral{
+    float: left;
+}
+
+#contenidoGeneral h2{
+    position: relative;
+    left: 25em;
+}
+
+.categorias, .articulos{
+    float: left;
+    margin-left: 15px;
+}
+
+#logout{
+    position: relative;
+    left: 80em;
+}
